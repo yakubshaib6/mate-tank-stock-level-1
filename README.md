@@ -1,6 +1,6 @@
 # Mate Energy: Lubricant Tank Stock Level
 
-Your partner in quality and standard lubricant. Warehouse tool for Mate Energy Industries Limited. Select a tank, type the dip reading (mm) and get the exact liters. Readings between chart steps are worked out by linear interpolation, with the working shown.
+Your partner in quality and standard lubricant.
 
 ## Files
 
